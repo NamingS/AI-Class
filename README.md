@@ -34,4 +34,3 @@
 32. 주성분 분석(PCA) 이란 무엇인가?
 33. Dense Layer란 무엇인가?    
 
-과제는 Report 폴더에, 실습 파일은 Exercise 폴더에 있습니다.
